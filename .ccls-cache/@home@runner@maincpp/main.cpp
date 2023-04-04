@@ -63,4 +63,6 @@ int main() {
 
       return 0;
   }
+  //Tested values 7, 10, -44, and 0; 100, 12, 7, and 0 twice. However
+  //for j, continuous non-stop output. 
 }
